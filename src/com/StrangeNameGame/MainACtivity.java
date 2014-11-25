@@ -44,5 +44,6 @@ public class MainACtivity extends Activity {
         image.setImageResource(R.drawable.putin);
 
         int pushMe = 2;
+        int P = 2;
     }
 }
