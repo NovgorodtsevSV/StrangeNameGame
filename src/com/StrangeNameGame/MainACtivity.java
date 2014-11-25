@@ -8,10 +8,11 @@ import android.widget.ImageView;
 import android.view.View;
 
 public class MainACtivity extends Activity {
-    /**
-     * Called when the activity is first created.
-     */
+
+
     ImageView image;
+
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
