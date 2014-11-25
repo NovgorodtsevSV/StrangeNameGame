@@ -28,5 +28,7 @@ public class MainACtivity extends Activity {
 
         image = (ImageView) findViewById(R.id.imageView4);
         image.setImageResource(R.drawable.putin);
+
+        int pushMe = 2;
     }
 }
